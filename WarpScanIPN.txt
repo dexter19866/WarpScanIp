@@ -3,6 +3,7 @@ warp://188.114.96.90:1843/?ifp=5-10#warp-ir&&detour=warp://188.114.97.173:908/?i
 warp://188.114.96.73:987/?ifp=5-10#warp-ir&&detour=warp://188.114.97.93:880/?ifp=5-10#warp-main
 warp://162.159.192.181:880/?ifp=5-10#warp-ir&&detour=warp://188.114.96.242:987/?ifp=5-10#warp-main
 warp://188.114.99.239:987/?ifp=5-10#warp-ir&&detour=warp://188.114.98.131:880/?ifp=5-10#warp-main
+warp://162.159.195.134:5279/?ifp=5-10#warp-ir&&detour=warp://188.114.98.31:5279/?ifp=5-10#warp-main
 
 
 
