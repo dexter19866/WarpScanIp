@@ -1,5 +1,4 @@
 warp://188.114.96.138:864/?ifp=1-5#warp-ir&&detour=warp://162.159.192.29:3854/?ifp=1-5#warp-main
-warp://auto#Warp_in_Warp&&detour=warp://auto#Warp_ir
 
 
 
