@@ -1,5 +1,5 @@
-warp://162.159.192.82:1014/?ifp=1-5#warp-ir&&detour=warp://188.114.98.32:7103/?ifp=1-5#warp-main
-warp://188.114.97.9:1014/?ifp=1-5#warp-ir&&detour=warp://188.114.98.27:1014/?ifp=1-5#warp-main
+warp://162.159.192.171:864/?ifp=1-5#warp-ir&&detour=warp://162.159.195.98:864/?ifp=1-5#warp-main
+warp://162.159.195.95:864/?ifp=1-5#warp-ir&&detour=warp://162.159.192.178:864/?ifp=1-5#warp-main
 
 
 
